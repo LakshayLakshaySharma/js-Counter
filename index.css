@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    background-color :#FF6;
+  }
+  
+  *{
+    margin :0;
+    padding :0;
+  }
+  
+  #title{
+    font-size :100px;
+    font-family :arial;
+    padding-bottom :70px;
+  }
+  
+  #number{
+    font-size :100px;
+    font-family :arial; 
+  }
+
+  button{
+    font-size :60px;
+    font-family :arial;
+    padding :20px;
+    margin :auto;
+    background-color :#fff;
+    border :none;
+    border-radius :15px;
+  }
+  
+
+  #container{
+    border : none;
+    border-radius :10px;
+    margin :auto;
+    width :600px;
+    height :300px;
+    padding :40px;
+    background-color :#fff;
+  }
